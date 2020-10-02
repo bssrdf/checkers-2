@@ -1,3 +1,3 @@
 # checkers
 
-<img src="board.gif" width=320/>
+<img src="board.gif" width=640/>
